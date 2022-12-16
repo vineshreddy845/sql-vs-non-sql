@@ -1,0 +1,10 @@
+-> there are two  types of database . realtional database and non- realtional database.
+---------------------------------------------------------------------------------------------------------------------------------------
+what are the realtional databases?
+->Some of the most well-known RDBMSs include MySQL, PostgreSQL, MariaDB, Microsoft SQL Server, and Oracle Database.
+-> where sql databases stores data in table-form(rowa and coloumns).
+
+what are the non-realtional databases?
+->NoSQL or non-relational databases examples: MongoDB, Apache Cassandra, Redis, Couchbase and Apache HBase.
+-> where non-sql databases stores data in differentways.
+->NoSQL database technology stores information in "JSON documents" instead of columns and rows used by relational databases.
